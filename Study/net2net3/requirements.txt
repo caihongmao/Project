@@ -1,0 +1,12 @@
+dlib
+fvcore
+h5py
+numpy
+opencv-python
+pandas
+pyyaml
+scipy
+tensorboardX
+termcolor
+tqdm
+yacs
